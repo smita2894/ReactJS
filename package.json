@@ -1,0 +1,25 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "this is react js ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smita2894/ReactJS.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "smita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smita2894/ReactJS/issues"
+  },
+  "homepage": "https://github.com/smita2894/ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  }
+}
